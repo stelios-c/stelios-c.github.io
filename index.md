@@ -1,4 +1,11 @@
 Hello and welcome to my personal site. 
+I have an M.Eng in Electrical and Information Engineering. I currently work as a full stack Data Analyst and Operations Engineer for a global Mobile Satellite Communications Operator.
+I have subject matter expertise in:
+  - Spatial and timeseries data
+  - Mobility/Transport: Maritime, Aviation, rail and road.
+  - Weather/Climate: Arctic sea ice concentrations, rain fade, rain diversity switches.
+  - signal measurements: aggregated sensor network carrier monitoring. 
+  - GNSS receiver analytics for interference detection and GNSS constellation health monitoring.
 
 Other pages of mine:
 - [Linked In profile](https://www.linkedin.com/in/stelios-christodoulou-4869aa250/)
