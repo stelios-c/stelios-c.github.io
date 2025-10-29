@@ -4,7 +4,7 @@ I have subject matter expertise in:
   - Spatial and timeseries data
   - Mobility/Transport: Maritime, Aviation, rail and road.
   - Weather/Climate: Arctic sea ice concentrations, rain fade, rain diversity switches.
-  - signal measurements: aggregated sensor network carrier monitoring. 
+  - Signal measurements: aggregated sensor network carrier monitoring. 
   - GNSS receiver analytics for interference detection and GNSS constellation health monitoring.
 
 Other pages of mine:
