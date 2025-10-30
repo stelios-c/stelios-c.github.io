@@ -28,4 +28,4 @@ I have subject matter expertise in:
 
 
 ## Professional experience:
- Currently in **Viasat/Inmarsat**. Ex-Ofcom, ex-Inmarsat, ex-PML, ex-Broadcom.
+ Currently in [Viasat/Inmarsat](https://www.viasat.com/). Ex-[Ofcom](https://www.ofcom.org.uk/), ex-[Inmarsat](https://www.inmarsat.com/), ex-[PML](https://pml.ac.uk/), ex-[Broadcom](https://www.broadcom.com/).
