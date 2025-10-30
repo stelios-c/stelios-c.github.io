@@ -1,5 +1,5 @@
 Hello and welcome to my personal site. 
-I have an M.Eng in Electrical and Information Engineering. I currently work as a full stack Data Analyst and Operations Engineer for a global Mobile Satellite Communications Operator.
+I currently work as a full stack Data Analyst and Operations Engineer for a global Mobile Satellite Communications Operator.
 I have subject matter expertise in:
   - Spatial and timeseries data
   - Mobility/Transport: Maritime, Aviation, rail and road.
@@ -7,7 +7,7 @@ I have subject matter expertise in:
   - Signal measurements: aggregated sensor network carrier monitoring. 
   - GNSS receiver analytics for interference detection and GNSS constellation health monitoring.
 
-## Other pages of mine:
+## My other pages:
 - [Linked In profile](https://www.linkedin.com/in/stelios-christodoulou-4869aa250/)
 - [Github portfolio](https://github.com/stelios-c) 
 
@@ -27,5 +27,5 @@ I have subject matter expertise in:
 - **Languages:** native Greek, professional fluent English, beginner French.
 
 
-## Professional experience:
- Currently in [Viasat/Inmarsat](https://www.viasat.com/). Ex-[Ofcom](https://www.ofcom.org.uk/), ex-[Inmarsat](https://www.inmarsat.com/), ex-[PML](https://pml.ac.uk/), ex-[Broadcom](https://www.broadcom.com/).
+## Academic background and professional experience:
+I have an M.Eng in Electrical and Information Engineering. Currently in [Viasat/Inmarsat](https://www.viasat.com/). Ex-[Ofcom](https://www.ofcom.org.uk/), ex-[Inmarsat](https://www.inmarsat.com/), ex-[PML](https://pml.ac.uk/), ex-[Broadcom](https://www.broadcom.com/).
