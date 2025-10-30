@@ -25,3 +25,7 @@ I have subject matter expertise in:
 - **Corporate automation:** MS Power Automate, Slack Workflows.
 - **Music:** Guitar, Recording, Live sound engineering, Audacity, Musescore, Lilypond.
 - **Languages:** native Greek, professional fluent English, beginner French.
+
+
+## Professional experience:
+ Currently in **Viasat/Inmarsat**. Ex-Ofcom, ex-Inmarsat, ex-PML, ex-Broadcom.
