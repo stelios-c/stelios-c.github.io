@@ -1,4 +1,4 @@
-[About](#About)  [Profile Pages](#my-other-pages:)  [Publications](#Publications)  [Skills](#Skills)  [Background/Experience](#Academic-background-and-professional-experience:)
+[About](#About)  [Profile Pages](#my-other-pages)  [Publications](#Publications)  [Skills](#Skills)  [Background/Experience](#Academic-background-and-professional-experience)
 
 ## About
 Hello and welcome to my personal site. 
