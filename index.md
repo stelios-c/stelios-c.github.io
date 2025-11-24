@@ -1,4 +1,9 @@
-[About](#About)  [Profile Pages](#my-other-pages)  [Publications](#Publications)  [Skills](#Skills)  [Background/Experience](#Academic-background-and-professional-experience)
+- [About](#About)
+- [Profile Pages](#my-other-pages)
+- [Publications](#Publications)
+- [Presentations/Talks](#Presentations-and-Talks)
+- [Skills](#Skills)
+- [Background/Experience](#Academic-background-and-professional-experience)
 
 ## About
 Hello and welcome to my personal site. 
@@ -17,6 +22,10 @@ I have subject matter expertise in:
 ## Publications
 - [Advice to Government on improving rail passenger access to data services](https://www.ofcom.org.uk/siteassets/resources/documents/phones-telecoms-and-internet/information-for-industry/other/rail-connectivity-advice-dcms.pdf): Assessment of passenger numbers at different places along the mainline rail network. Ofcom (2018)
 - Frequent locations of oceanic fronts as an indicator of pelagic diversity: Application to marine protected areas and renewables Miller, P.I. & Christodoulou, S. (2014) Marine Policy. [https://doi.org/10.1016/j.marpol.2013.09.009](https://doi.org/10.1016/j.marpol.2013.09.009)
+
+## Presentations-and-Talks
+- [Open Data on GPS interference: Scandinavia and the Baltics](https://docs.google.com/presentation/d/1S8cm2eU0HnQEPbScr2_xw1aW_Y9g6YDO3spvV3qytVQ/edit?usp=sharing) session in Open Data Camp Edinburgh 2025
+- [Basic Time-series Analysis in Pandas](https://github.com/stelios-c/sig_proc/blob/main/pydata_london2025/Basic%20time-series%20analysis%20in%20Pandas.pdf) lightning talk in PyData London 2025
 
 ## Skills:  
 - **Python:** Standard library, (Geo)Pandas, Jupyter, SciPy, pip, sklearn.
