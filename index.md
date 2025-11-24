@@ -1,9 +1,4 @@
-- [About](#about)
-- [Profile Pages](#my-other-pages)
-- [Publications](#publications)
-- [Presentations/Talks](#presentations-and-talks)
-- [Skills](#skills)
-- [Background/Experience](#academic-background-and-professional-experience)
+| [About](#about) | [Profile Pages](#my-other-pages) | [Publications](#publications) | [Presentations/Talks](#presentations-and-talks) | [Skills](#skills) | [Background/Experience](#academic-background-and-professional-experience) |
 
 ## About
 Hello and welcome to my personal site. 
