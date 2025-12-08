@@ -23,7 +23,7 @@ I have subject matter expertise in:
 
 ## Skills  
 - **Python:** Standard library, (Geo)Pandas, Jupyter, SciPy, pip, sklearn.
-- **Data Management** SQL, dbt, PostGIS, Hadoop (Pig, Hive).
+- **Data Management:** SQL, dbt, PostGIS, Hadoop (Pig, Hive).
 - **Visualisation:**  Tableau (Desktop, Server), QGIS, Excel.
 - **Google Cloud:** BigQuery, Storage, IAM, Monitoring, Virtual Machines, Notebooks.
 - **Service and Project Management:**  Github, Jira, ITIL 4, Lean Six Sigma.  
