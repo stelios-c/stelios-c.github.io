@@ -9,7 +9,7 @@ I have subject matter expertise in:
   - Signal measurements: aggregated sensor network carrier monitoring. 
   - GNSS receiver analytics for interference detection and GNSS constellation health monitoring.
 
-## My other pages:
+## My other pages
 - [Linked In profile](https://www.linkedin.com/in/stelios-christodoulou-4869aa250/)
 - [Github portfolio](https://github.com/stelios-c) 
 
@@ -21,7 +21,7 @@ I have subject matter expertise in:
 - [Open Data on GPS interference: Scandinavia and the Baltics](https://github.com/stelios-c/GPS_analysis/blob/main/scandi_baltic/Scandinavia_Baltic.pdf) session in Open Data Camp Edinburgh 2025
 - [Basic Time-series Analysis in Pandas](https://github.com/stelios-c/sig_proc/blob/main/pydata_london2025/Basic%20time-series%20analysis%20in%20Pandas.pdf) lightning talk in PyData London 2025
 
-## Skills:  
+## Skills  
 - **Python:** Standard library, (Geo)Pandas, Jupyter, SciPy, pip, sklearn.
 - **Data Management** SQL, dbt, PostGIS, Hadoop (Pig, Hive).
 - **Visualisation:**  Tableau (Desktop, Server), QGIS, Excel.
@@ -33,5 +33,5 @@ I have subject matter expertise in:
 - **Languages:** native Greek, professional fluent English, beginner French.
 
 
-## Academic background and professional experience:
+## Academic background and professional experience
 I have an M.Eng in Electrical and Information Engineering. Currently in [Viasat/Inmarsat](https://www.viasat.com/). Ex-[Ofcom](https://www.ofcom.org.uk/), ex-[Inmarsat](https://www.inmarsat.com/), ex-[PML](https://pml.ac.uk/), ex-[Broadcom](https://www.broadcom.com/).
