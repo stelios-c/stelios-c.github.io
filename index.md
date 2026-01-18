@@ -3,10 +3,10 @@
 Hello and welcome to my personal site. 
 I currently work as a full stack Data Analyst and Operations Engineer for a global Mobile Satellite Communications Operator.
 I have subject matter expertise in:
-  - Spatial, timeseries, telecommunications and computer networks data
+  - Spatial and timeseries data.
+  - Communications and Networks.
   - Mobility/Transport: Maritime, Aviation, rail and road.
-  - GNSS receiver analytics for interference detection and GNSS constellation health monitoring.
-  - Signal measurements: aggregated sensor network carrier monitoring. 
+  - PNT vulnerabilities, Infrastructure dependencies on PNT.
   - Weather/Climate: Arctic sea ice concentrations, rain fade, rain diversity switches.
 
 ## My other pages
@@ -35,4 +35,9 @@ I have subject matter expertise in:
 
 
 ## Academic background and professional experience
-I completed a 4 year integrated masters M.Eng in Electrical and Information Engineering at the university of Cambridge. Currently in [Viasat/Inmarsat](https://www.viasat.com/). Ex-[Ofcom](https://www.ofcom.org.uk/), ex-[Inmarsat](https://www.inmarsat.com/), ex-[PML](https://pml.ac.uk/), ex-[Broadcom](https://www.broadcom.com/).
+I completed a 4 year integrated masters M.Eng in Electrical and Information Engineering at the university of Cambridge. 
+- Currently in [Viasat/Inmarsat](https://www.viasat.com/).
+- Ex-[Ofcom](https://www.ofcom.org.uk/)
+- ex-[Inmarsat](https://www.inmarsat.com/)
+- ex-[PML](https://pml.ac.uk/)
+- ex-[Broadcom](https://www.broadcom.com/).
