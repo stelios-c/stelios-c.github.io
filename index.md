@@ -30,7 +30,6 @@ I have subject matter expertise in:
 - **Service and Project Management:**  Github, ITIL 4, Continuous improvement (Lean Six Sigma), Agile (Jira).  
 - **Diagrams:** Lucid Charts, Mermaid.
 - **Corporate automation:** MS Power Automate, Slack Workflows.
-- **Music:** Guitar, Recording, Live sound engineering, Audacity, Musescore, Lilypond.
 - **Languages:** native Greek, professional fluent English, beginner French.
 
 
