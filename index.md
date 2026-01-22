@@ -11,7 +11,8 @@ I have subject matter expertise in:
 
 ## My other pages
 - [Linked In profile](https://www.linkedin.com/in/stelios-christodoulou-4869aa250/)
-- [Github portfolio](https://github.com/stelios-c) 
+- [Github portfolio](https://github.com/stelios-c)
+- [My old Data analysis blog (2017-2020)](https://tableautziaimesa.blogspot.com/)
 
 ## Publications
 - [Advice to Government on improving rail passenger access to data services](https://www.ofcom.org.uk/siteassets/resources/documents/phones-telecoms-and-internet/information-for-industry/other/rail-connectivity-advice-dcms.pdf): Assessment of passenger numbers at different places along the mainline rail network. Ofcom (2018)
