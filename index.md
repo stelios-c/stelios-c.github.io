@@ -47,9 +47,9 @@ I have subject matter expertise in:
 
 
 ## Academic background and professional experience
-I completed a 4 year integrated masters M.Eng in Electrical and Information Engineering at the university of Cambridge. 
+I completed a 4 year integrated masters (M.Eng) in Engineering (Electrical and Information Sciences) at the university of Cambridge. 
 - Currently in [Viasat/Inmarsat](https://www.viasat.com/).
-- Ex-[Ofcom](https://www.ofcom.org.uk/)
-- ex-[Inmarsat](https://www.inmarsat.com/)
-- ex-[PML](https://pml.ac.uk/)
-- ex-[Broadcom](https://www.broadcom.com/).
+- Ex-[Ofcom](https://www.ofcom.org.uk/) Spectrum Technology.
+- ex-[Inmarsat](https://www.inmarsat.com/) Satellite Resource Management.
+- ex-[PML](https://pml.ac.uk/) Remote Sensing Group.
+- ex-[Broadcom](https://www.broadcom.com/) Mobile Multimedia.
