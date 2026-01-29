@@ -5,20 +5,20 @@ I currently work as a full stack Data Analyst and Operations Engineer for a glob
 I have subject matter expertise in:
   - Spatial and timeseries data.
   - Communications and Networks.
+    - Latency.
+    - propagation and rain fade.
+    - rain diversity for SatCom.
+    - Dependency on PNT and GNSS.
   - Mobility/Transport: 
     - Maritime
     - Aviation
     - rail
     - road
   - PNT:
-    - GNSS vulnerabilities
-    - GNSS performance crowdsourced monitoring
-    - Infrastructure dependencies on PNT.
-  - Weather/Climate: 
-    - effect on maritime and aviation routes
-    - propagation and rain fade
-    - rain diversity for SatCom
-
+    - GNSS vulnerabilities.
+    - GNSS performance crowdsourced monitoring.
+    - GNSS vs INS use in commercial aviation.
+ 
 ## My other pages
 - [Linked In profile](https://www.linkedin.com/in/stelios-christodoulou-4869aa250/)
 - [Github portfolio](https://github.com/stelios-c)
