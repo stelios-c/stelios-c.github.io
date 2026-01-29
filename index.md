@@ -22,6 +22,7 @@ I have subject matter expertise in:
 ## My other pages
 - [Linked In profile](https://www.linkedin.com/in/stelios-christodoulou-4869aa250/)
 - [Github portfolio](https://github.com/stelios-c)
+- [Music](./music.md) website.
 - [My old Data analysis blog (2017-2019)](https://tableautziaimesa.blogspot.com/)
 
 ## Publications
