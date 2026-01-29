@@ -1,4 +1,4 @@
-| [About](#about) | [Profile Pages](#my-other-pages) | [Publications](#publications) | [Presentations/Talks](#presentations-and-talks) | [Skills](#skills) | [Background/Experience](#academic-background-and-professional-experience) |  [Music](./music.md)
+| [About](#about) | [Profile Pages](#my-other-pages) | [Publications](#publications) | [Presentations/Talks](#presentations-and-talks) | [Skills](#skills) | [Background/Experience](#academic-background-and-professional-experience) |
 ## About
 Hello and welcome to my personal site. 
 I currently work as a full stack Data Analyst and Operations Engineer for a global Mobile Satellite Communications Operator.
