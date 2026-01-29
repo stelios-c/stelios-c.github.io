@@ -14,7 +14,7 @@ I must have been the first to understand what instrument was meant by Adamantios
 I play some of the repertoire from Straube (including Gervasio arranged by Straube), and Parry on open G tuned guitar with capo on 5th fret or standard tuning.  
 I play Yorgos Tyrtaios version of Retraite Espagnol in open G. Given its similarity to the american 'Spanish Fandango', I brought it  to the attention of the late D. Sauter.
 ## Recording 
-I have used a variety of hardware and software at different times for audio and midi recording, for personal projects and ensembles: Audacity, Garage Band, Ableton Live, Soundcraft and Mackie Mixers, Zoom H5 portable recorder.  
+I have used a variety of hardware and software for audio and midi recording of personal projects and ensembles: Audacity, Garage Band, Ableton Live, Soundcraft and Mackie Mixers, Zoom H5 portable recorder.  
 ## Music typesetting
 I have created typeset versions of my compositions and arrangements using Lilypond and Musescore. I use a YouRock guitar gen 1 for midi input.
 ## Laouto
