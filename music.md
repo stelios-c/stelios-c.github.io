@@ -2,7 +2,7 @@
 ## Guitar 
 ### BMG 
 I have been a member of british mandolin and guitar orchestras Moonlight Mandolins (2008-2020) and London Mandolin Orchestra (2009-2016). 
-I was part of the british BMG ensemble that performed in the EuroFestival Zupfmusik in Bruchsal Germany in 2014.
+I performed in EuroFestival Zupfmusik in Bruchsal Germany in 2014 as a member of the british BMG ensemble.
 ### Scottish Country and Ceilidh
 I have been the guitarist and live sound engineer for band Strathcam (2010-2025). I played for the International team in a number of Newcastle Scottish Country Dance Festivals. 
 ### Solo and accompanist
