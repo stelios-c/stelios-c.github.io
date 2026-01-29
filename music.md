@@ -9,10 +9,10 @@ I have been the guitarist and live sound engineer for band Strathcam (2010-2025)
 I arrange a variety of music for guitar, and also play existing repertoire. I have accompanied various people close to me in vocal and instrumental performances.
 ### Score collection
 I have a number of guitar scores and methods, original and newer editions and facsimilees. I'm interested in older arrangements of greek music, particularly greek tangos, and traditional or popular tunes, british 'parlour guitar' repertoire and classical guitar pieces from the 19th century
-## English guittar and open G
-I must be the first person who could understand what instrument was meant by the reference to Adamantios Korais learning the 'english guitar' in Stamatis Petrou 'Letters from Amsterdam'. I brought this reference to the attention of cittern researchers and performers and I am credited for this in a couple of scholarly publications.  
+### English guittar and open G
+I must have been the first to understand what instrument was meant by Adamantios Korais learning the 'english guitar' in Stamatis Petrou 'Letters from Amsterdam'. I brought this reference to the attention of cittern researchers and performers and I am credited for this in a couple of scholarly publications.  
 I play some of the repertoire from Straube (including Gervasio arranged by Straube), and Parry on open G tuned guitar with capo on 5th fret or standard tuning.  
-I play G. Tyrtaios version of Retraite Espagnol in open G. Given the similarity of it and other related european repertoire to the american 'Spanish Fandango', I brought it  to the attention of the late D. Sauter.
+I play Yorgos Tyrtaios version of Retraite Espagnol in open G. Given the similarity of it and other related european repertoire to the american 'Spanish Fandango', I brought it  to the attention of the late D. Sauter.
 ## Recording 
 I have used a variety of hardware and software at different times for audio and midi recording, for personal projects and ensembles: Audacity, Garage Band, Ableton Live, Soundcraft and Mackie Mixers, Zoom H5 portable recorder.  
 ## Music typesetting
