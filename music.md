@@ -12,7 +12,7 @@ I have a number of guitar scores and methods, original and newer editions and fa
 ### English guittar and open G
 I must have been the first to understand what instrument was meant by Adamantios Korais learning the 'english guitar' in Stamatis Petrou 'Letters from Amsterdam'. I brought this reference to the attention of cittern researchers and performers and I am credited for this in the PhD thesis of [Panagiotis Poulopoulos](https://www.deutsches-museum.de/en/research/person/panagiotis-poulopoulos) and in Jelma van Amersfoort's paper [MISS SARA BURGERHART'S ENGLISH GUITTAR: The 'guitarre Angloise' in Enlightenment Holland](https://www.jstor.org/stable/43738364) .  
 I play some of the repertoire from Straube (including Gervasio arranged by Straube), and Parry on open G tuned guitar with capo on 5th fret or standard tuning.  
-I play Yorgos Tyrtaios version of Retraite Espagnol in open G. Given its similarity to the american 'Spanish Fandango', I brought it  to the attention of the late D. Sauter.
+I play Yorgos Tyrtaios version of Retraite Espagnol in open G. Given its similarity to the american 'Spanish Fandango', I brought it  to the attention of the late [D. Sauter](https://www.donaldsauter.com/american-guitar-alternate-tunings.htm). 
 ## Recording 
 I have used a variety of hardware and software for audio and midi recording of personal projects and ensembles: Audacity, Garage Band, Ableton Live, Soundcraft and Mackie Mixers, Zoom H5 portable recorder.  
 ## Music typesetting
