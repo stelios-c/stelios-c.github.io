@@ -33,7 +33,7 @@ I have subject matter expertise in:
 - **Python:** Standard library, (Geo)Pandas, Jupyter, SciPy, pip, sklearn.
 - **Data Management:** SQL, dbt, PostGIS, Hadoop (Pig, Hive).
 - **Visualisation:**  Tableau (Desktop, Server), QGIS, Excel.
-- **Google Cloud:** BigQuery, Storage, IAM, Monitoring, Virtual Machines, Notebooks.
+- **Google Cloud:** BigQuery, Storage, IAM, Monitoring, Virtual Machines, Notebooks, Gemini.
 - **Service and Project Management:**  Github, ITIL 4, Continuous improvement (Lean Six Sigma), Agile (Jira).  
 - **Diagrams:** Lucid Charts, Mermaid.
 - **Corporate automation:** MS Power Automate, Slack Workflows.
