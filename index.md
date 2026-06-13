@@ -27,7 +27,7 @@ I have subject matter expertise in:
 - [Github Codespaces for Python Data Analysis](https://docs.google.com/presentation/d/1C1cgSZ5gM4XpcPjzJoZpkcQOeuFuV8nO7Uy4YADg3R4/edit?usp=sharing) Presentation to Python Glasgow/Python Scotland meetup, February 2026.
 - [After the Titanic: Maritime Distress and Safety](https://docs.google.com/presentation/d/1OdF7YhLlXTUAVEzqZVVIfUUSBKlD9ZLsma0ky-iVSk0/edit?usp=sharing). Talk to primary school students on GMDSS.
 - [Open Data on GPS interference: Scandinavia and the Baltics](https://github.com/stelios-c/GPS_analysis/blob/main/scandi_baltic/Scandinavia_Baltic.pdf) session in Open Data Camp Edinburgh 2025
-- [Basic Time-series Analysis in Pandas](https://github.com/stelios-c/sig_proc/blob/main/pydata_london2025/Basic%20time-series%20analysis%20in%20Pandas.pdf) lightning talk in PyData London 2025
+- [Basic Time-series Analysis in Pandas](https://github.com/stelios-c/sig_proc/blob/main/pydata_london2025/Basic%20time-series%20analysis%20in%20Pandas.pdf) [lightning talk](https://youtu.be/d5HPpKXD5wA&t=2000) in PyData London 2025
 
 ## Skills  
 - **Python:** Standard library, (Geo)Pandas, Jupyter, SciPy, pip, sklearn.
