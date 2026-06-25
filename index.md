@@ -5,11 +5,11 @@ I currently work as a full stack Data Analyst and Operations Engineer for a glob
 I have subject matter expertise in:
   - Spatial and timeseries data.
   - Communications and Networks.
-    - Latency, propagation and rain fade, rain diversity for SatCom, Dependency on PNT and GNSS.
+    - Resource management, latency, propagation and rain fade, rain diversity for SatCom, dependency on PNT and GNSS.
   - Mobility/Transport: 
     - Maritime, Aviation, rail, road.
   - PNT:
-    - GNSS vulnerabilities, GNSS performance monitoring, GNSS vs INS use in commercial aviation.
+    - GNSS interference/vulnerabilities, GNSS performance monitoring, GNSS vs INS use in commercial aviation.
  
 ## My other pages
 - [Linked In profile](https://www.linkedin.com/in/stelios-christodoulou-4869aa250/)
@@ -44,7 +44,7 @@ I have subject matter expertise in:
 ## Academic background and professional experience
 I completed a 4 year integrated masters (M.Eng) in Engineering (Electrical and Information Sciences) at the university of Cambridge. 
 - Currently in [Viasat/Inmarsat](https://www.viasat.com/).
-- Ex-[Ofcom](https://www.ofcom.org.uk/) Spectrum Technology.
+- ex-[Ofcom](https://www.ofcom.org.uk/) Spectrum Technology.
 - ex-[Inmarsat](https://www.inmarsat.com/) Satellite Resource Management.
 - ex-[PML](https://pml.ac.uk/) Remote Sensing Group.
 - ex-[Broadcom](https://www.broadcom.com/) Mobile Multimedia.
