@@ -8,7 +8,7 @@ I have been the guitarist and live sound engineer for band Strathcam (2010-2025)
 ### Solo and accompanist
 I arrange a variety of music for guitar, and also play existing repertoire. I have accompanied various people close to me in vocal and instrumental performances.
 ### Score collection
-I have a number of guitar scores and methods, original and newer editions and facsimilees. I'm interested in older arrangements of greek music, particularly greek tango, operetta, traditional or popular tunes, british 'parlour guitar' repertoire and classical guitar pieces from the 19th century
+I have a number of guitar scores and methods, original and newer editions and facsimilees. I'm interested in older guitar arrangements of greek music, particularly greek tango, operetta, traditional or popular tunes, british 'parlour guitar' repertoire and classical guitar pieces from the 19th century
 ### English guittar and open G
 I brought the reference to Adamantios Korais learning the 'english guitar' in Stamatis Petrou 'Letters from Amsterdam' to the attention of cittern researchers and performers and I am credited for this in the PhD thesis of [Panagiotis Poulopoulos](https://www.deutsches-museum.de/en/research/person/panagiotis-poulopoulos) and in Jelma van Amersfoort's paper [MISS SARA BURGERHART'S ENGLISH GUITTAR: The 'guitarre Angloise' in Enlightenment Holland](https://www.jstor.org/stable/43738364) .  
 I play some of the repertoire from Straube (including Gervasio arranged by Straube), and Parry on open G tuned guitar with capo on 5th fret or standard tuning.  
