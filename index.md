@@ -3,13 +3,10 @@
 Hello and welcome to my personal site. 
 I currently work as a full stack Data Analyst and Operations Engineer for a global Mobile Satellite Communications Operator.
 I have subject matter expertise in:
-  - Spatial and timeseries data.
-  - Communications and Networks.
-    - Resource management, latency, propagation and rain fade, rain diversity for SatCom, dependency on PNT and GNSS.
-  - Mobility/Transport: 
-    - Maritime, Aviation, rail, road.
-  - PNT:
-    - GNSS interference/vulnerabilities, GNSS performance monitoring, GNSS vs INS use in commercial aviation.
+  - Spatial and timeseries data: AIS, ADS-B, GPS.
+  - Communications and Networks: Resource management, incident detection and root cause analysis, problem management, latency, propagation and rain fade, rain diversity for SatCom, dependency on PNT and GNSS.
+  - Mobility/Transport: Maritime, Aviation, rail, road.
+  - PNT: GNSS interference/vulnerabilities, GNSS performance monitoring, GNSS vs INS use in commercial aviation.
  
 ## My other pages
 - [Linked In profile](https://www.linkedin.com/in/stelios-christodoulou-4869aa250/)
@@ -24,7 +21,7 @@ I have subject matter expertise in:
 ## Presentations and Talks
 - [Web-scraping Wikipedia in the era of LLMs](https://github.com/stelios-c/wikidata_experimental/blob/master/web_scraping_wikipedia.pdf). Presentation to Edinburgh Data Science and AI meetup, June 2026.
 - GNSS situational awareness from Fleet Broadband terminals. [IALA](https://www.iala.int/) [DTEC](https://www.iala.int/about-iala/committees/enav/)6 meeting, March 2026.
-- [Github Codespaces for Python Data Analysis](https://docs.google.com/presentation/d/1C1cgSZ5gM4XpcPjzJoZpkcQOeuFuV8nO7Uy4YADg3R4/edit?usp=sharing) Presentation to Python Glasgow/[Python Scotland meetup](https://www.youtube.com/live/ZsoH3S7CHM4), February 2026.
+- [Github Codespaces for Python Data Analysis](https://docs.google.com/presentation/d/1C1cgSZ5gM4XpcPjzJoZpkcQOeuFuV8nO7Uy4YADg3R4/edit?usp=sharing) Presentation to Python Glasgow/[Python Scotland meetup](https://www.youtube.com/live/ZsoH3S7CHM4), February 2026. Lightning talk in PyData London, March 2026
 - [After the Titanic: Maritime Distress and Safety](https://docs.google.com/presentation/d/1OdF7YhLlXTUAVEzqZVVIfUUSBKlD9ZLsma0ky-iVSk0/edit?usp=sharing). Talk to primary school students on GMDSS.
 - [Open Data on GPS interference: Scandinavia and the Baltics](https://github.com/stelios-c/GPS_analysis/blob/main/scandi_baltic/Scandinavia_Baltic.pdf) session in Open Data Camp Edinburgh 2025.
 - [Basic Time-series Analysis in Pandas](https://github.com/stelios-c/sig_proc/blob/main/pydata_london2025/Basic%20time-series%20analysis%20in%20Pandas.pdf) PyData London 2025 [lightning talk](https://youtu.be/d5HPpKXD5wA&t=2000).
