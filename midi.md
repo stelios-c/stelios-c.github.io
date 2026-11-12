@@ -38,6 +38,6 @@ Most modern notation software will have midi input as an option, as will a lot o
 - Johnny Mitchell
   - Taming the Tiger
   - Painting with words and music DVD
-- Bela Fleck & the Flectones: UFO TOFU
+- Bela Fleck & the Flecktones: UFO TOFU
  
 
