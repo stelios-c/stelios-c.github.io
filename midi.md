@@ -4,17 +4,21 @@ This is a companion website for my "Midi for plucked string players" [BMG Festiv
 - [Roland guitar synth](https://www.roland.com/uk/categories/guitar_bass/guitar_synthesizers/)
 - [Godin Multiac "Synth Access" guitars](https://godinguitars.com/product-category/electrics/multiac/)i
 - [VGuitar Forums](https://www.vguitarforums.com/smf/index.php) Community of users of Roland/Boss guitar modelling, synth and MIDI gear.
+
 ## Audio to midi realtime conversion
 - Sonuus
+
 ## Guitar shaped MIDI controllers
 - YouRock guitar
 - Casio
 - Yamaha
 - SynthAxe
+
 ## Software
 Most modern notation software will have midi input as an option, as will a lot of recording software. If you are not already running your preferred software on your device, consider downloading one of the two options below
 - [MuseScore Studio](https://musescore.org/en) for computers and laptops.
 - [Notion](https://uk.fender.com/pages/fender-notion) for mobile phones and tablets.
+
 ## Bibliography
 - Sound on Sound magazine
   - Review of Roland VG 99
@@ -26,6 +30,7 @@ Most modern notation software will have midi input as an option, as will a lot o
   - Chapter 9: Controllers.
 - *Coryat C. Guerilla Home Recording: How to get great sound from any studio (no matter how weird or cheap your gear is)* 
   - Chapter 8: Humanizing Drum Patterns & MIDI Parts
+
 ## Discography
 - Pat Metheny Group: Offramp
 - Allan Holdsworth: Atavachron
