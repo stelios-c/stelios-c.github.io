@@ -28,7 +28,7 @@ Most modern notation software will have midi input as an option, as will a lot o
   - Chapter 2: MIDI and recording, combining audio and MIDI 
   - Chapter 3: synthesisers, samplers and drum machines
   - Chapter 9: Controllers.
-- *Coryat C. Guerilla Home Recording: How to get great sound from any studio (no matter how weird or cheap your gear is)* 
+- *Coryat K. Guerilla Home Recording: How to get great sound from any studio (no matter how weird or cheap your gear is)* 
   - Chapter 8: Humanizing Drum Patterns & MIDI Parts
 
 ## Discography
