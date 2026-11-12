@@ -16,6 +16,6 @@ I play Yorgos Tyrtaios version of [Retraite Espagnol in open G](https://youtu.be
 ## Recording 
 I have used a variety of hardware and software for audio and midi recording of personal projects and ensembles: Audacity, Garage Band, Ableton Live, Soundcraft and Mackie Mixers, Zoom H5 portable recorder.  
 ## Music typesetting
-I have created typeset versions of my compositions and arrangements using Lilypond and Musescore. I use a YouRock guitar gen 1 for midi input.
+I have created typeset versions of my compositions and arrangements using Lilypond and Musescore. I use a YouRock guitar gen 1 for midi input. See the [companion site for my "Midi for plucked string players"](./midi.md) workshop.
 ## Laouto
 I play a laouto made by Christodoulos Pipis. I'm interested in the traditional role of the instrument accompanying the violin in Cypriot and Greek Aegean island music but also explore its solo capabilities.
