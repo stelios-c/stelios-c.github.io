@@ -2,7 +2,7 @@
 This is a companion website for my "Midi for plucked string players" [BMG Festival 2027](https://www.bbmg.org.uk/festival) workshop. This is a gateway for further exploration of the topic, links are not product endorsements.
 ## 13-pin Roland compatible instruments and hardware
 - [Roland guitar synth](https://www.roland.com/uk/categories/guitar_bass/guitar_synthesizers/)
-- [Godin Multiac "Synth Access" guitars](https://godinguitars.com/product-category/electrics/multiac/)i
+- [Godin Multiac "Synth Access" guitars](https://godinguitars.com/product-category/electrics/multiac/)
 - [VGuitar Forums](https://www.vguitarforums.com/smf/index.php) Community of users of Roland/Boss guitar modelling, synth and MIDI gear.
 
 ## Audio to midi realtime conversion
